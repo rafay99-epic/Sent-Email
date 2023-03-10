@@ -1,4 +1,4 @@
-# Web Scrapper: 
+# URlHunter 
 ## Introducation:
 I want to get alot of information about different conpany so I created this web scrapper.
 
